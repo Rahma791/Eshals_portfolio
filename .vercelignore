@@ -1,2 +1,5 @@
 system-prompt.md
+dev-server.js
 .env.example
+README.md
+*.code-workspace
