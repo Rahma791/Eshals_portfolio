@@ -1,0 +1,8 @@
+{
+  "name": "ask-my-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eshal Shaukat's one-page portfolio with the Ask My Portfolio AI chatbot",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
